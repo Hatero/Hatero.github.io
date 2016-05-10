@@ -212,7 +212,7 @@ li{
   line-height: 16px;
   text-indent: 2em;
 }
-.le-text p:first-letter{
+.le-text p {
   float: left;
   font-size:70px;
   color: #f5e327;
