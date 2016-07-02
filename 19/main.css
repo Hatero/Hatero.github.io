@@ -9,12 +9,12 @@ body {
 
 .head-nav {
     height: 48px;
-    border-top: 4px #0D65B2 solid;
+    border-top: 4px #238E68 solid;
     border-bottom: 1px #eee solid;
 }
 
 .glyphicon {
-    color: #0D65B2;
+    color: #238E68;
     font-size: 24px;
 }
 
@@ -46,8 +46,8 @@ body {
 /*新闻专题标题及摘要部分*/
 
 .topic-abs {
-    background-color: #f8f8f8;
-    border-bottom: 4px #0D65B2 solid;
+    background-color: #238E68;
+    border-bottom: 4px #238E68 solid;
 }
 
 .topic-wrap {
@@ -64,7 +64,7 @@ body {
 
 .topic-title h1 {
     font-size: 40px;
-    color: #0D65B2;
+    color: #00FF00;
     font-weight: bold;
     margin: 30px 0 20px 0;
 }
